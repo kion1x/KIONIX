@@ -1,0 +1,4 @@
+/home/dmkirichen/repos/lab4/CMakeFiles/rebuild_cache.dir
+/home/dmkirichen/repos/lab4/CMakeFiles/edit_cache.dir
+/home/dmkirichen/repos/lab4/CMakeFiles/lib.dir
+/home/dmkirichen/repos/lab4/CMakeFiles/calculator.dir
